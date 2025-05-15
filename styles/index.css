@@ -11,6 +11,12 @@ header {
     height: 100vh;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
+
+
 nav {
     display: flex;
     flex-direction: row;
@@ -346,7 +352,7 @@ main {
   background-color: darkblue;
   color: white;
   padding: 40px 20px 20px;
-  font-family: 'Segoe UI', sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .footer-container {
