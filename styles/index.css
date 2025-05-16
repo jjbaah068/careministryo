@@ -60,9 +60,9 @@ header a:hover {
 .header-text {
     color: whitesmoke;
     display: grid;
-    flex-direction: column;
-    text-align: center;
-    align-items: center;
+    /* flex-direction: column; */
+    /* text-align: center; */
+    /* align-items: center; */
     justify-content: center;
     gap: 10px;
     padding: 120px;
@@ -181,8 +181,8 @@ main {
     background-image: url(../images/demo3.jpg);
     background-size: cover;
     background-position: center;
-    position: relative;
-    min-height: 100vh;
+    /* position: relative; */
+    min-height: 90vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -197,7 +197,7 @@ main {
     max-width: 700px;
     padding: 40px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-    text-align: left;
+    /* text-align: left; */
 }
 
 
@@ -289,7 +289,6 @@ main {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: beige;
     width: 100%;
-
 }
 
 .contact-container {
@@ -404,7 +403,6 @@ main {
   width: 50px;
   height: 50px;
   filter: brightness(0) invert(2);
-
 }
 
 .social-icons img:hover {
@@ -441,7 +439,7 @@ main {
   padding: 20px 0 0;
   border-top: 1px solid #333;
   margin-top: 20px;
-  font-size: 14px;
+  /* font-size: 14px; */
 }
 
 
