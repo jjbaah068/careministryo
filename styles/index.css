@@ -61,12 +61,12 @@ header a:hover {
     color: whitesmoke;
     display: grid;
     flex-direction: column;
-    text-align: left;
-    align-items: left;
-    justify-content: left;
-    gap: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
     padding: 120px;
-    margin-top: 100px;
+    margin-top: 85px;
 
 }
 
